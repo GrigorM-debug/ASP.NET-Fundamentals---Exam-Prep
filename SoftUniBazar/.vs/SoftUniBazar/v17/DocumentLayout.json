@@ -1,0 +1,427 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\softunibazar\\softunibazar\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|solutionrelative:softunibazar\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\softunibazar\\softunibazar\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|solutionrelative:softunibazar\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\softunibazar\\softunibazar\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|solutionrelative:softunibazar\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\softunibazar\\softunibazar\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|solutionrelative:softunibazar\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\softunibazar\\softunibazar\\controllers\\adcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|solutionrelative:softunibazar\\controllers\\adcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\softunibazar\\softunibazar\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|solutionrelative:softunibazar\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\softunibazar\\softunibazar\\data\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|solutionrelative:softunibazar\\data\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\softunibazar\\softunibazar\\data\\models\\adbuyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|solutionrelative:softunibazar\\data\\models\\adbuyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\softunibazar\\softunibazar\\data\\models\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|solutionrelative:softunibazar\\data\\models\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\softunibazar\\softunibazar\\models\\adindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|solutionrelative:softunibazar\\models\\adindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\softunibazar\\softunibazar\\views\\ad\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|solutionrelative:softunibazar\\views\\ad\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\softunibazar\\softunibazar\\views\\ad\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|solutionrelative:softunibazar\\views\\ad\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\softunibazar\\softunibazar\\data\\bazardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|solutionrelative:softunibazar\\data\\bazardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\softunibazar\\softunibazar\\views\\ad\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|solutionrelative:softunibazar\\views\\ad\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\softunibazar\\softunibazar\\models\\addinputviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|solutionrelative:softunibazar\\models\\addinputviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\softunibazar\\softunibazar\\views\\ad\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|solutionrelative:softunibazar\\views\\ad\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\softunibazar\\softunibazar\\migrations\\20241016102037_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|solutionrelative:softunibazar\\migrations\\20241016102037_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\softunibazar\\softunibazar\\models\\categoryselectlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|solutionrelative:softunibazar\\models\\categoryselectlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\softunibazar\\softunibazar\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|solutionrelative:softunibazar\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\softunibazar\\softunibazar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|solutionrelative:softunibazar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\ScaffoldingReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SoftUniBazar\\ScaffoldingReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\softunibazar\\softunibazar\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|solutionrelative:softunibazar\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\softunibazar\\softunibazar\\constants\\applicationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453A73E3-9636-4793-AF29-B7F0FC8C54D9}|SoftUniBazar\\SoftUniBazar.csproj|solutionrelative:softunibazar\\constants\\applicationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "SoftUniBazar\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "SoftUniBazar\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:28:45.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "SoftUniBazar\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "SoftUniBazar\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:17:02.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "SoftUniBazar\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "SoftUniBazar\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:16:32.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdController.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Controllers\\AdController.cs",
+              "RelativeDocumentMoniker": "SoftUniBazar\\Controllers\\AdController.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Controllers\\AdController.cs",
+              "RelativeToolTip": "SoftUniBazar\\Controllers\\AdController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAcwE4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:25:42.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ad.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Data\\Models\\Ad.cs",
+              "RelativeDocumentMoniker": "SoftUniBazar\\Data\\Models\\Ad.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Data\\Models\\Ad.cs",
+              "RelativeToolTip": "SoftUniBazar\\Data\\Models\\Ad.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:38:34.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Data\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "SoftUniBazar\\Data\\Models\\Category.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Data\\Models\\Category.cs",
+              "RelativeToolTip": "SoftUniBazar\\Data\\Models\\Category.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:00:21.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdBuyer.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Data\\Models\\AdBuyer.cs",
+              "RelativeDocumentMoniker": "SoftUniBazar\\Data\\Models\\AdBuyer.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Data\\Models\\AdBuyer.cs",
+              "RelativeToolTip": "SoftUniBazar\\Data\\Models\\AdBuyer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:03:42.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "All.cshtml",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Views\\Ad\\All.cshtml",
+              "RelativeDocumentMoniker": "SoftUniBazar\\Views\\Ad\\All.cshtml",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Views\\Ad\\All.cshtml",
+              "RelativeToolTip": "SoftUniBazar\\Views\\Ad\\All.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T10:27:37.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdIndexViewModel.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Models\\AdIndexViewModel.cs",
+              "RelativeDocumentMoniker": "SoftUniBazar\\Models\\AdIndexViewModel.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Models\\AdIndexViewModel.cs",
+              "RelativeToolTip": "SoftUniBazar\\Models\\AdIndexViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:49:30.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Views\\Ad\\Cart.cshtml",
+              "RelativeDocumentMoniker": "SoftUniBazar\\Views\\Ad\\Cart.cshtml",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Views\\Ad\\Cart.cshtml",
+              "RelativeToolTip": "SoftUniBazar\\Views\\Ad\\Cart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T11:39:02.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SoftUniBazar\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SoftUniBazar\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:24:55.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "SoftUniBazar\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "SoftUniBazar\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T10:10:44.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241016102037_Initial.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Migrations\\20241016102037_Initial.cs",
+              "RelativeDocumentMoniker": "SoftUniBazar\\Migrations\\20241016102037_Initial.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Migrations\\20241016102037_Initial.cs",
+              "RelativeToolTip": "SoftUniBazar\\Migrations\\20241016102037_Initial.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAYwNEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:20:37.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BazarDbContext.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Data\\BazarDbContext.cs",
+              "RelativeDocumentMoniker": "SoftUniBazar\\Data\\BazarDbContext.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Data\\BazarDbContext.cs",
+              "RelativeToolTip": "SoftUniBazar\\Data\\BazarDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:37:42.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Views\\Ad\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SoftUniBazar\\Views\\Ad\\Edit.cshtml",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Views\\Ad\\Edit.cshtml",
+              "RelativeToolTip": "SoftUniBazar\\Views\\Ad\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T11:27:34.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Views\\Ad\\Add.cshtml",
+              "RelativeDocumentMoniker": "SoftUniBazar\\Views\\Ad\\Add.cshtml",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Views\\Ad\\Add.cshtml",
+              "RelativeToolTip": "SoftUniBazar\\Views\\Ad\\Add.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T10:29:17.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddInputViewModel.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Models\\AddInputViewModel.cs",
+              "RelativeDocumentMoniker": "SoftUniBazar\\Models\\AddInputViewModel.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Models\\AddInputViewModel.cs",
+              "RelativeToolTip": "SoftUniBazar\\Models\\AddInputViewModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAASwBMAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:46:19.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "SoftUniBazar\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "SoftUniBazar\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-16T10:10:36.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategorySelectList.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Models\\CategorySelectList.cs",
+              "RelativeDocumentMoniker": "SoftUniBazar\\Models\\CategorySelectList.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Models\\CategorySelectList.cs",
+              "RelativeToolTip": "SoftUniBazar\\Models\\CategorySelectList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:29:46.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Program.cs",
+              "RelativeDocumentMoniker": "SoftUniBazar\\Program.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Program.cs",
+              "RelativeToolTip": "SoftUniBazar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:06:49.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\appsettings.json",
+              "RelativeDocumentMoniker": "SoftUniBazar\\appsettings.json",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\appsettings.json",
+              "RelativeToolTip": "SoftUniBazar\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T10:06:30.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApplicationConstants.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Constants\\ApplicationConstants.cs",
+              "RelativeDocumentMoniker": "SoftUniBazar\\Constants\\ApplicationConstants.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Constants\\ApplicationConstants.cs",
+              "RelativeToolTip": "SoftUniBazar\\Constants\\ApplicationConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:42:37.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "SoftUniBazar\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\SoftUniBazar\\SoftUniBazar\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "SoftUniBazar\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAB8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T10:13:17.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
