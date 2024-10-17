@@ -1,0 +1,427 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\homies\\homies\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|solutionrelative:homies\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\homies\\homies\\views\\event\\joined.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|solutionrelative:homies\\views\\event\\joined.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\homies\\homies\\models\\joinedeventsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|solutionrelative:homies\\models\\joinedeventsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\homies\\homies\\views\\event\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|solutionrelative:homies\\views\\event\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\homies\\homies\\views\\event\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|solutionrelative:homies\\views\\event\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\homies\\homies\\models\\eventinputviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|solutionrelative:homies\\models\\eventinputviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\homies\\homies\\constants\\applicationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|solutionrelative:homies\\constants\\applicationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\homies\\homies\\views\\event\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|solutionrelative:homies\\views\\event\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\homies\\homies\\views\\event\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|solutionrelative:homies\\views\\event\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\homies\\homies\\models\\typeselectlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|solutionrelative:homies\\models\\typeselectlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\homies\\homies\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|solutionrelative:homies\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\homies\\homies\\data\\models\\eventparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|solutionrelative:homies\\data\\models\\eventparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\homies\\homies\\data\\homiesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|solutionrelative:homies\\data\\homiesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Migrations\\20241017084831_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Homies\\Migrations\\20241017084831_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\homies\\homies\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|solutionrelative:homies\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\homies\\homies\\data\\models\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|solutionrelative:homies\\data\\models\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\homies\\homies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|solutionrelative:homies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\homies\\homies\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|solutionrelative:homies\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\homies\\homies\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|solutionrelative:homies\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\homies\\homies\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|solutionrelative:homies\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\homies\\homies\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|solutionrelative:homies\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\homies\\homies\\homies.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|solutionrelative:homies\\homies.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\homies\\homies\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|solutionrelative:homies\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Joined.cshtml",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Views\\Event\\Joined.cshtml",
+              "RelativeDocumentMoniker": "Homies\\Views\\Event\\Joined.cshtml",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Views\\Event\\Joined.cshtml",
+              "RelativeToolTip": "Homies\\Views\\Event\\Joined.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T10:59:09.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JoinedEventsViewModel.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Models\\JoinedEventsViewModel.cs",
+              "RelativeDocumentMoniker": "Homies\\Models\\JoinedEventsViewModel.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Models\\JoinedEventsViewModel.cs",
+              "RelativeToolTip": "Homies\\Models\\JoinedEventsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:59:07.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventInputViewModel.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Models\\EventInputViewModel.cs",
+              "RelativeDocumentMoniker": "Homies\\Models\\EventInputViewModel.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Models\\EventInputViewModel.cs",
+              "RelativeToolTip": "Homies\\Models\\EventInputViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:46:43.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "Homies\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Controllers\\EventController.cs",
+              "RelativeToolTip": "Homies\\Controllers\\EventController.cs",
+              "ViewState": "AgIAANMAAAAAAAAAAAAcwOYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:52:19.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Views\\Event\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Homies\\Views\\Event\\Edit.cshtml",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Views\\Event\\Edit.cshtml",
+              "RelativeToolTip": "Homies\\Views\\Event\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAACSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T10:38:02.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Views\\Event\\Add.cshtml",
+              "RelativeDocumentMoniker": "Homies\\Views\\Event\\Add.cshtml",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Views\\Event\\Add.cshtml",
+              "RelativeToolTip": "Homies\\Views\\Event\\Add.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T08:59:17.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationConstants.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Constants\\ApplicationConstants.cs",
+              "RelativeDocumentMoniker": "Homies\\Constants\\ApplicationConstants.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Constants\\ApplicationConstants.cs",
+              "RelativeToolTip": "Homies\\Constants\\ApplicationConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:55:33.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241017084831_Initial.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Migrations\\20241017084831_Initial.cs",
+              "RelativeDocumentMoniker": "Homies\\Migrations\\20241017084831_Initial.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Migrations\\20241017084831_Initial.cs",
+              "RelativeToolTip": "Homies\\Migrations\\20241017084831_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:48:31.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Homies\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Homies\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:40:54.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Homies\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Homies\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T08:38:11.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\appsettings.json",
+              "RelativeDocumentMoniker": "Homies\\appsettings.json",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\appsettings.json",
+              "RelativeToolTip": "Homies\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T08:31:09.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomiesDbContext.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Data\\HomiesDbContext.cs",
+              "RelativeDocumentMoniker": "Homies\\Data\\HomiesDbContext.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Data\\HomiesDbContext.cs",
+              "RelativeToolTip": "Homies\\Data\\HomiesDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:03:14.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EventParticipant.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Data\\Models\\EventParticipant.cs",
+              "RelativeDocumentMoniker": "Homies\\Data\\Models\\EventParticipant.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Data\\Models\\EventParticipant.cs",
+              "RelativeToolTip": "Homies\\Data\\Models\\EventParticipant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:16:31.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "All.cshtml",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Views\\Event\\All.cshtml",
+              "RelativeDocumentMoniker": "Homies\\Views\\Event\\All.cshtml",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Views\\Event\\All.cshtml",
+              "RelativeToolTip": "Homies\\Views\\Event\\All.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T09:49:04.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Views\\Event\\Details.cshtml",
+              "RelativeDocumentMoniker": "Homies\\Views\\Event\\Details.cshtml",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Views\\Event\\Details.cshtml",
+              "RelativeToolTip": "Homies\\Views\\Event\\Details.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAADgvxYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T10:03:02.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TypeSelectList.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Models\\TypeSelectList.cs",
+              "RelativeDocumentMoniker": "Homies\\Models\\TypeSelectList.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Models\\TypeSelectList.cs",
+              "RelativeToolTip": "Homies\\Models\\TypeSelectList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:56:18.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Type.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Data\\Models\\Type.cs",
+              "RelativeDocumentMoniker": "Homies\\Data\\Models\\Type.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Data\\Models\\Type.cs",
+              "RelativeToolTip": "Homies\\Data\\Models\\Type.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:03:05.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Homies\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Homies\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T08:32:36.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Homies",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Homies.csproj",
+              "RelativeDocumentMoniker": "Homies\\Homies.csproj",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Homies.csproj",
+              "RelativeToolTip": "Homies\\Homies.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-17T08:34:28.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Homies\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Homies\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-17T08:38:04.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Homies\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "Homies\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T08:38:12.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Program.cs",
+              "RelativeDocumentMoniker": "Homies\\Program.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Program.cs",
+              "RelativeToolTip": "Homies\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:41:31.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Homies\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Homies\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwB8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T08:38:14.161Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
