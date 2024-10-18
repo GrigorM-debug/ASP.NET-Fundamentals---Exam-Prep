@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\01. Book Library_Skeleton_6.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37380E60-4044-4C90-BF0B-39987E006B6E}|Library\\Library.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\01. book library_skeleton_6.0\\library\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37380E60-4044-4C90-BF0B-39987E006B6E}|Library\\Library.csproj|solutionrelative:library\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37380E60-4044-4C90-BF0B-39987E006B6E}|Library\\Library.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\01. book library_skeleton_6.0\\library\\models\\bookindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37380E60-4044-4C90-BF0B-39987E006B6E}|Library\\Library.csproj|solutionrelative:library\\models\\bookindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37380E60-4044-4C90-BF0B-39987E006B6E}|Library\\Library.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\01. book library_skeleton_6.0\\library\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37380E60-4044-4C90-BF0B-39987E006B6E}|Library\\Library.csproj|solutionrelative:library\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37380E60-4044-4C90-BF0B-39987E006B6E}|Library\\Library.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\01. book library_skeleton_6.0\\library\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37380E60-4044-4C90-BF0B-39987E006B6E}|Library\\Library.csproj|solutionrelative:library\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37380E60-4044-4C90-BF0B-39987E006B6E}|Library\\Library.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\01. book library_skeleton_6.0\\library\\views\\books\\mine.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37380E60-4044-4C90-BF0B-39987E006B6E}|Library\\Library.csproj|solutionrelative:library\\views\\books\\mine.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37380E60-4044-4C90-BF0B-39987E006B6E}|Library\\Library.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\01. book library_skeleton_6.0\\library\\models\\mybooksviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37380E60-4044-4C90-BF0B-39987E006B6E}|Library\\Library.csproj|solutionrelative:library\\models\\mybooksviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\01. Book Library_Skeleton_6.0\\Library\\Migrations\\20241018174326_AddedIsDeletedPropertyInApplicationUserBookTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\Migrations\\20241018174326_AddedIsDeletedPropertyInApplicationUserBookTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37380E60-4044-4C90-BF0B-39987E006B6E}|Library\\Library.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\01. book library_skeleton_6.0\\library\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37380E60-4044-4C90-BF0B-39987E006B6E}|Library\\Library.csproj|solutionrelative:library\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37380E60-4044-4C90-BF0B-39987E006B6E}|Library\\Library.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\01. book library_skeleton_6.0\\library\\data\\models\\applicationuserbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37380E60-4044-4C90-BF0B-39987E006B6E}|Library\\Library.csproj|solutionrelative:library\\data\\models\\applicationuserbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37380E60-4044-4C90-BF0B-39987E006B6E}|Library\\Library.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\01. book library_skeleton_6.0\\library\\views\\books\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37380E60-4044-4C90-BF0B-39987E006B6E}|Library\\Library.csproj|solutionrelative:library\\views\\books\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37380E60-4044-4C90-BF0B-39987E006B6E}|Library\\Library.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\01. book library_skeleton_6.0\\library\\models\\bookinputviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37380E60-4044-4C90-BF0B-39987E006B6E}|Library\\Library.csproj|solutionrelative:library\\models\\bookinputviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37380E60-4044-4C90-BF0B-39987E006B6E}|Library\\Library.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\01. book library_skeleton_6.0\\library\\data\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37380E60-4044-4C90-BF0B-39987E006B6E}|Library\\Library.csproj|solutionrelative:library\\data\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\01. Book Library_Skeleton_6.0\\Library\\Migrations\\20241018173204_AddedDecimalPrecssion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\Migrations\\20241018173204_AddedDecimalPrecssion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37380E60-4044-4C90-BF0B-39987E006B6E}|Library\\Library.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\01. book library_skeleton_6.0\\library\\models\\categoryselectlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37380E60-4044-4C90-BF0B-39987E006B6E}|Library\\Library.csproj|solutionrelative:library\\models\\categoryselectlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37380E60-4044-4C90-BF0B-39987E006B6E}|Library\\Library.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\01. book library_skeleton_6.0\\library\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37380E60-4044-4C90-BF0B-39987E006B6E}|Library\\Library.csproj|solutionrelative:library\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationUserBook.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\01. Book Library_Skeleton_6.0\\Library\\Data\\Models\\ApplicationUserBook.cs",
+              "RelativeDocumentMoniker": "Library\\Data\\Models\\ApplicationUserBook.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\01. Book Library_Skeleton_6.0\\Library\\Data\\Models\\ApplicationUserBook.cs",
+              "RelativeToolTip": "Library\\Data\\Models\\ApplicationUserBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:42:09.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mine.cshtml",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\01. Book Library_Skeleton_6.0\\Library\\Views\\Books\\Mine.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\Books\\Mine.cshtml",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\01. Book Library_Skeleton_6.0\\Library\\Views\\Books\\Mine.cshtml",
+              "RelativeToolTip": "Library\\Views\\Books\\Mine.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T17:38:07.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\01. Book Library_Skeleton_6.0\\Library\\Data\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Library\\Data\\Models\\Book.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\01. Book Library_Skeleton_6.0\\Library\\Data\\Models\\Book.cs",
+              "RelativeToolTip": "Library\\Data\\Models\\Book.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:27:12.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategorySelectList.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\01. Book Library_Skeleton_6.0\\Library\\Models\\CategorySelectList.cs",
+              "RelativeDocumentMoniker": "Library\\Models\\CategorySelectList.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\01. Book Library_Skeleton_6.0\\Library\\Models\\CategorySelectList.cs",
+              "RelativeToolTip": "Library\\Models\\CategorySelectList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:22:47.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\01. Book Library_Skeleton_6.0\\Library\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Library\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\01. Book Library_Skeleton_6.0\\Library\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Library\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:19:38.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\01. Book Library_Skeleton_6.0\\Library\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Library\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\01. Book Library_Skeleton_6.0\\Library\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Library\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAYwHoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:18:05.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\01. Book Library_Skeleton_6.0\\Library\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\01. Book Library_Skeleton_6.0\\Library\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Library\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T17:15:49.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\01. Book Library_Skeleton_6.0\\Library\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\01. Book Library_Skeleton_6.0\\Library\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Library\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBwAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T17:16:07.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookIndexViewModel.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\01. Book Library_Skeleton_6.0\\Library\\Models\\BookIndexViewModel.cs",
+              "RelativeDocumentMoniker": "Library\\Models\\BookIndexViewModel.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\01. Book Library_Skeleton_6.0\\Library\\Models\\BookIndexViewModel.cs",
+              "RelativeToolTip": "Library\\Models\\BookIndexViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:59:10.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LibraryDbContext.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\01. Book Library_Skeleton_6.0\\Library\\Data\\LibraryDbContext.cs",
+              "RelativeDocumentMoniker": "Library\\Data\\LibraryDbContext.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\01. Book Library_Skeleton_6.0\\Library\\Data\\LibraryDbContext.cs",
+              "RelativeToolTip": "Library\\Data\\LibraryDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:42:25.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyBooksViewModel.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\01. Book Library_Skeleton_6.0\\Library\\Models\\MyBooksViewModel.cs",
+              "RelativeDocumentMoniker": "Library\\Models\\MyBooksViewModel.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\01. Book Library_Skeleton_6.0\\Library\\Models\\MyBooksViewModel.cs",
+              "RelativeToolTip": "Library\\Models\\MyBooksViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:59:33.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241018174326_AddedIsDeletedPropertyInApplicationUserBookTable.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\01. Book Library_Skeleton_6.0\\Library\\Migrations\\20241018174326_AddedIsDeletedPropertyInApplicationUserBookTable.cs",
+              "RelativeDocumentMoniker": "Library\\Migrations\\20241018174326_AddedIsDeletedPropertyInApplicationUserBookTable.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\01. Book Library_Skeleton_6.0\\Library\\Migrations\\20241018174326_AddedIsDeletedPropertyInApplicationUserBookTable.cs",
+              "RelativeToolTip": "Library\\Migrations\\20241018174326_AddedIsDeletedPropertyInApplicationUserBookTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:43:26.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241018173204_AddedDecimalPrecssion.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\01. Book Library_Skeleton_6.0\\Library\\Migrations\\20241018173204_AddedDecimalPrecssion.cs",
+              "RelativeDocumentMoniker": "Library\\Migrations\\20241018173204_AddedDecimalPrecssion.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\01. Book Library_Skeleton_6.0\\Library\\Migrations\\20241018173204_AddedDecimalPrecssion.cs",
+              "RelativeToolTip": "Library\\Migrations\\20241018173204_AddedDecimalPrecssion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:32:04.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookInputViewModel.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\01. Book Library_Skeleton_6.0\\Library\\Models\\BookInputViewModel.cs",
+              "RelativeDocumentMoniker": "Library\\Models\\BookInputViewModel.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\01. Book Library_Skeleton_6.0\\Library\\Models\\BookInputViewModel.cs",
+              "RelativeToolTip": "Library\\Models\\BookInputViewModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwBcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:19:28.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\01. Book Library_Skeleton_6.0\\Library\\Views\\Books\\Add.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\Books\\Add.cshtml",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\01. Book Library_Skeleton_6.0\\Library\\Views\\Books\\Add.cshtml",
+              "RelativeToolTip": "Library\\Views\\Books\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T17:17:58.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

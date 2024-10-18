@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\homies\\homies\\migrations\\20241017084831_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|solutionrelative:homies\\migrations\\20241017084831_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\homies\\homies\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|solutionrelative:homies\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -93,10 +97,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\homies\\homies\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|solutionrelative:homies\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\homies\\homies\\migrations\\20241017084831_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6284C577-833D-4B62-994B-F748F2BE2305}|Homies\\Homies.csproj|solutionrelative:homies\\migrations\\20241017084831_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -106,7 +106,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -126,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Event.cs",
               "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Data\\Models\\Event.cs",
               "RelativeDocumentMoniker": "Homies\\Data\\Models\\Event.cs",
@@ -134,12 +134,11 @@
               "RelativeToolTip": "Homies\\Data\\Models\\Event.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T15:18:57.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T15:18:57.041Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Joined.cshtml",
               "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Views\\Event\\Joined.cshtml",
               "RelativeDocumentMoniker": "Homies\\Views\\Event\\Joined.cshtml",
@@ -151,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "JoinedEventsViewModel.cs",
               "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Models\\JoinedEventsViewModel.cs",
               "RelativeDocumentMoniker": "Homies\\Models\\JoinedEventsViewModel.cs",
@@ -163,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "EventInputViewModel.cs",
               "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Models\\EventInputViewModel.cs",
               "RelativeDocumentMoniker": "Homies\\Models\\EventInputViewModel.cs",
@@ -175,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EventController.cs",
               "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Controllers\\EventController.cs",
               "RelativeDocumentMoniker": "Homies\\Controllers\\EventController.cs",
@@ -188,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Views\\Event\\Edit.cshtml",
               "RelativeDocumentMoniker": "Homies\\Views\\Event\\Edit.cshtml",
@@ -200,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Views\\Event\\Add.cshtml",
               "RelativeDocumentMoniker": "Homies\\Views\\Event\\Add.cshtml",
@@ -212,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ApplicationConstants.cs",
               "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Constants\\ApplicationConstants.cs",
               "RelativeDocumentMoniker": "Homies\\Constants\\ApplicationConstants.cs",
@@ -224,19 +223,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 0,
               "Title": "20241017084831_Initial.cs",
               "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Migrations\\20241017084831_Initial.cs",
               "RelativeDocumentMoniker": "Homies\\Migrations\\20241017084831_Initial.cs",
               "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Migrations\\20241017084831_Initial.cs",
               "RelativeToolTip": "Homies\\Migrations\\20241017084831_Initial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABwBAAAAAAAAAAAqwE0BAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T08:48:31.775Z"
+              "WhenOpened": "2024-10-17T08:48:31.775Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Homies\\Controllers\\HomeController.cs",
@@ -248,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Homies\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
@@ -260,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\appsettings.json",
               "RelativeDocumentMoniker": "Homies\\appsettings.json",
@@ -272,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "HomiesDbContext.cs",
               "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Data\\HomiesDbContext.cs",
               "RelativeDocumentMoniker": "Homies\\Data\\HomiesDbContext.cs",
@@ -284,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "EventParticipant.cs",
               "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Data\\Models\\EventParticipant.cs",
               "RelativeDocumentMoniker": "Homies\\Data\\Models\\EventParticipant.cs",
@@ -296,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "All.cshtml",
               "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Views\\Event\\All.cshtml",
               "RelativeDocumentMoniker": "Homies\\Views\\Event\\All.cshtml",
@@ -308,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Views\\Event\\Details.cshtml",
               "RelativeDocumentMoniker": "Homies\\Views\\Event\\Details.cshtml",
@@ -320,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "TypeSelectList.cs",
               "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Models\\TypeSelectList.cs",
               "RelativeDocumentMoniker": "Homies\\Models\\TypeSelectList.cs",
@@ -332,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Type.cs",
               "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Data\\Models\\Type.cs",
               "RelativeDocumentMoniker": "Homies\\Data\\Models\\Type.cs",
@@ -344,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Homies\\Views\\Shared\\_Layout.cshtml",
@@ -356,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Homies.csproj",
               "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Homies.csproj",
               "RelativeDocumentMoniker": "Homies\\Homies.csproj",
@@ -368,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "Homies\\ScaffoldingReadMe.txt",
@@ -380,7 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Logout.cshtml",
               "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
               "RelativeDocumentMoniker": "Homies\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
@@ -392,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Program.cs",
               "RelativeDocumentMoniker": "Homies\\Program.cs",
@@ -404,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Homies\\Homies\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Homies\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
