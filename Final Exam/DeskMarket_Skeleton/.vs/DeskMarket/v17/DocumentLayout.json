@@ -1,0 +1,546 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\final exam\\deskmarket_skeleton\\deskmarket\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|solutionrelative:deskmarket\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\final exam\\deskmarket_skeleton\\deskmarket\\data\\models\\productclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|solutionrelative:deskmarket\\data\\models\\productclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\final exam\\deskmarket_skeleton\\deskmarket\\constants\\categoryconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|solutionrelative:deskmarket\\constants\\categoryconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\final exam\\deskmarket_skeleton\\deskmarket\\constants\\productconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|solutionrelative:deskmarket\\constants\\productconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\final exam\\deskmarket_skeleton\\deskmarket\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|solutionrelative:deskmarket\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\final exam\\deskmarket_skeleton\\deskmarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|solutionrelative:deskmarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\final exam\\deskmarket_skeleton\\deskmarket\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|solutionrelative:deskmarket\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\final exam\\deskmarket_skeleton\\deskmarket\\models\\product\\categoryselectlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|solutionrelative:deskmarket\\models\\product\\categoryselectlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\final exam\\deskmarket_skeleton\\deskmarket\\views\\product\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|solutionrelative:deskmarket\\views\\product\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\final exam\\deskmarket_skeleton\\deskmarket\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|solutionrelative:deskmarket\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\final exam\\deskmarket_skeleton\\deskmarket\\models\\product\\productinputviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|solutionrelative:deskmarket\\models\\product\\productinputviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\final exam\\deskmarket_skeleton\\deskmarket\\models\\product\\productindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|solutionrelative:deskmarket\\models\\product\\productindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\final exam\\deskmarket_skeleton\\deskmarket\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|solutionrelative:deskmarket\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\final exam\\deskmarket_skeleton\\deskmarket\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|solutionrelative:deskmarket\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\final exam\\deskmarket_skeleton\\deskmarket\\models\\cart\\usercartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|solutionrelative:deskmarket\\models\\cart\\usercartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\final exam\\deskmarket_skeleton\\deskmarket\\models\\product\\productdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|solutionrelative:deskmarket\\models\\product\\productdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\final exam\\deskmarket_skeleton\\deskmarket\\models\\product\\productdeleteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|solutionrelative:deskmarket\\models\\product\\productdeleteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Migrations\\20241019090802_AddedIsDeletedPropertyInProductClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DeskMarket\\Migrations\\20241019090802_AddedIsDeletedPropertyInProductClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\final exam\\deskmarket_skeleton\\deskmarket\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|solutionrelative:deskmarket\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\final exam\\deskmarket_skeleton\\deskmarket\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|solutionrelative:deskmarket\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\final exam\\deskmarket_skeleton\\deskmarket\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|solutionrelative:deskmarket\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\final exam\\deskmarket_skeleton\\deskmarket\\models\\product\\producteditinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|solutionrelative:deskmarket\\models\\product\\producteditinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\final exam\\deskmarket_skeleton\\deskmarket\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|solutionrelative:deskmarket\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\final exam\\deskmarket_skeleton\\deskmarket\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|solutionrelative:deskmarket\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\final exam\\deskmarket_skeleton\\deskmarket\\migrations\\20241019064835_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|solutionrelative:deskmarket\\migrations\\20241019064835_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Migrations\\20241019064651_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DeskMarket\\Migrations\\20241019064651_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\final exam\\deskmarket_skeleton\\deskmarket\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|solutionrelative:deskmarket\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\final exam\\deskmarket_skeleton\\deskmarket\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|solutionrelative:deskmarket\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\final exam\\deskmarket_skeleton\\deskmarket\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|solutionrelative:deskmarket\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|c:\\github\\asp.net-fundamentals---exam-prep\\final exam\\deskmarket_skeleton\\deskmarket\\deskmarket.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|solutionrelative:deskmarket\\deskmarket.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DeskMarket\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DeskMarket\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA9wBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:59:29.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryConstants.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Constants\\CategoryConstants.cs",
+              "RelativeDocumentMoniker": "DeskMarket\\Constants\\CategoryConstants.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Constants\\CategoryConstants.cs",
+              "RelativeToolTip": "DeskMarket\\Constants\\CategoryConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:05:24.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductClient.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Data\\Models\\ProductClient.cs",
+              "RelativeDocumentMoniker": "DeskMarket\\Data\\Models\\ProductClient.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Data\\Models\\ProductClient.cs",
+              "RelativeToolTip": "DeskMarket\\Data\\Models\\ProductClient.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA4wBUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:30:34.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "DeskMarket\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "DeskMarket\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAEEBAAAAAAAAAAAIwEsBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T07:03:29.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductConstants.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Constants\\ProductConstants.cs",
+              "RelativeDocumentMoniker": "DeskMarket\\Constants\\ProductConstants.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Constants\\ProductConstants.cs",
+              "RelativeToolTip": "DeskMarket\\Constants\\ProductConstants.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:09:47.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Program.cs",
+              "RelativeDocumentMoniker": "DeskMarket\\Program.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Program.cs",
+              "RelativeToolTip": "DeskMarket\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:59:20.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategorySelectList.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Models\\Product\\CategorySelectList.cs",
+              "RelativeDocumentMoniker": "DeskMarket\\Models\\Product\\CategorySelectList.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Models\\Product\\CategorySelectList.cs",
+              "RelativeToolTip": "DeskMarket\\Models\\Product\\CategorySelectList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:41:25.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "DeskMarket\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "DeskMarket\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACUAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T07:22:35.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DeskMarket\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DeskMarket\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T07:45:38.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\appsettings.json",
+              "RelativeDocumentMoniker": "DeskMarket\\appsettings.json",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\appsettings.json",
+              "RelativeToolTip": "DeskMarket\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-19T06:00:01.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Models\\Product\\ProductDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "DeskMarket\\Models\\Product\\ProductDetailsViewModel.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Models\\Product\\ProductDetailsViewModel.cs",
+              "RelativeToolTip": "DeskMarket\\Models\\Product\\ProductDetailsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T08:03:00.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductInputViewModel.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Models\\Product\\ProductInputViewModel.cs",
+              "RelativeDocumentMoniker": "DeskMarket\\Models\\Product\\ProductInputViewModel.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Models\\Product\\ProductInputViewModel.cs",
+              "RelativeToolTip": "DeskMarket\\Models\\Product\\ProductInputViewModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:12:40.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Views\\Product\\Cart.cshtml",
+              "RelativeDocumentMoniker": "DeskMarket\\Views\\Product\\Cart.cshtml",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Views\\Product\\Cart.cshtml",
+              "RelativeToolTip": "DeskMarket\\Views\\Product\\Cart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T09:03:38.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DeskMarket\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "DeskMarket\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T08:42:50.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductIndexViewModel.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Models\\Product\\ProductIndexViewModel.cs",
+              "RelativeDocumentMoniker": "DeskMarket\\Models\\Product\\ProductIndexViewModel.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Models\\Product\\ProductIndexViewModel.cs",
+              "RelativeToolTip": "DeskMarket\\Models\\Product\\ProductIndexViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T07:40:21.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductDeleteViewModel.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Models\\Product\\ProductDeleteViewModel.cs",
+              "RelativeDocumentMoniker": "DeskMarket\\Models\\Product\\ProductDeleteViewModel.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Models\\Product\\ProductDeleteViewModel.cs",
+              "RelativeToolTip": "DeskMarket\\Models\\Product\\ProductDeleteViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T08:49:52.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserCartViewModel.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Models\\Cart\\UserCartViewModel.cs",
+              "RelativeDocumentMoniker": "DeskMarket\\Models\\Cart\\UserCartViewModel.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Models\\Cart\\UserCartViewModel.cs",
+              "RelativeToolTip": "DeskMarket\\Models\\Cart\\UserCartViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T09:12:49.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241019090802_AddedIsDeletedPropertyInProductClient.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Migrations\\20241019090802_AddedIsDeletedPropertyInProductClient.cs",
+              "RelativeDocumentMoniker": "DeskMarket\\Migrations\\20241019090802_AddedIsDeletedPropertyInProductClient.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Migrations\\20241019090802_AddedIsDeletedPropertyInProductClient.cs",
+              "RelativeToolTip": "DeskMarket\\Migrations\\20241019090802_AddedIsDeletedPropertyInProductClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T09:08:02.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DeskMarket\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "DeskMarket\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T08:18:41.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "DeskMarket\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "DeskMarket\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T07:52:23.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Views\\Product\\Add.cshtml",
+              "RelativeDocumentMoniker": "DeskMarket\\Views\\Product\\Add.cshtml",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Views\\Product\\Add.cshtml",
+              "RelativeToolTip": "DeskMarket\\Views\\Product\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T06:55:09.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DeskMarket\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DeskMarket\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T08:06:09.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "DeskMarket\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "DeskMarket\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T08:05:59.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20241019064651_Initial.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Migrations\\20241019064651_Initial.cs",
+              "RelativeDocumentMoniker": "DeskMarket\\Migrations\\20241019064651_Initial.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Migrations\\20241019064651_Initial.cs",
+              "RelativeToolTip": "DeskMarket\\Migrations\\20241019064651_Initial.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAgwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:46:51.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductEditInputModel.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Models\\Product\\ProductEditInputModel.cs",
+              "RelativeDocumentMoniker": "DeskMarket\\Models\\Product\\ProductEditInputModel.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Models\\Product\\ProductEditInputModel.cs",
+              "RelativeToolTip": "DeskMarket\\Models\\Product\\ProductEditInputModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T08:28:10.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241019064835_Initial.cs",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Migrations\\20241019064835_Initial.cs",
+              "RelativeDocumentMoniker": "DeskMarket\\Migrations\\20241019064835_Initial.cs",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Migrations\\20241019064835_Initial.cs",
+              "RelativeToolTip": "DeskMarket\\Migrations\\20241019064835_Initial.cs",
+              "ViewState": "AgIAAAUBAAAAAAAAAAAgwBABAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:48:35.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "DeskMarket\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "DeskMarket\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAB8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T06:02:53.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "DeskMarket\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "DeskMarket\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T06:02:02.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "DeskMarket\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "DeskMarket\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-19T06:01:58.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DeskMarket",
+              "DocumentMoniker": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\DeskMarket.csproj",
+              "RelativeDocumentMoniker": "DeskMarket\\DeskMarket.csproj",
+              "ToolTip": "C:\\Github\\ASP.NET-Fundamentals---Exam-Prep\\Final Exam\\DeskMarket_Skeleton\\DeskMarket\\DeskMarket.csproj",
+              "RelativeToolTip": "DeskMarket\\DeskMarket.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-19T05:59:16.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
